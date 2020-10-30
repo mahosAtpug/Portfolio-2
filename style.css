@@ -1,0 +1,45 @@
+h1{
+    color:cyan
+}
+
+h2{
+    color:red;
+    text-align:center;
+}
+
+p{
+    color:rgb(222, 135, 215);
+    text-align:center;
+
+}
+
+/* *{
+    border:solid
+} */
+.header{
+    background-color: #FFFFC3;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    background-color: #FED2A5;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+.siteDescription{
+    background-color:#D48BAE;
+
+}
+
+
+.footer{
+    background-color: #8A79AF;
+    display:flex;
+    justify-content:flex-end;
+
+}
+
